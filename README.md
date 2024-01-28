@@ -16,7 +16,7 @@ Projekt jest zrealizowany w dwóch plikach: `server.cpp` i `client.cpp` lub `cli
 W folderze PNG-cards-1.3 są dodane obrazki kart.
 
 #### Działający program klientów w Pythonie:
-![gitlab-small](https://gitlab.cs.put.poznan.pl/inf153936/SK_153936/raw/master/ScreenShot_GUI.png)
+![github-small](https://github.com/mr-SCWN/Server_Client_CardGame/blob/main/ScreenShot_GUI.png)
 
 ### Jak uruchomić projekt
 
